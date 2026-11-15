@@ -5,11 +5,11 @@
     "title": "Macrophage interferon regulatory factor 7 aggravates the progression of metabolic dysfunction-associated steatohepatitis",
     "journal": "Molecular Biomedicine",
     "year": "2026",
-    "kind": "pending",
+    "kind": "journal",
     "issue": "",
-    "url": "",
+    "url": "https://media.springernature.com/full/springer-static/cover-hires/journal/43556",
     "page": "",
-    "note": "未找到可靠的对应封面"
+    "note": "官方期刊封面图像/期刊代表性封面；未确认独立期次封面"
   },
   {
     "number": 2,
@@ -17,11 +17,11 @@
     "title": "Topographic mapping of the HCC microenvironment reveals an antitumor axis between CCL19+ fibroblasts and CXCR3+ B Cells",
     "journal": "Journal of Translational Medicine",
     "year": "2026",
-    "kind": "pending",
-    "issue": "",
-    "url": "",
-    "page": "",
-    "note": "未找到可靠的对应封面"
+    "kind": "journal",
+    "issue": "Journal of Translational Medicine",
+    "url": "https://media.springernature.com/full/springer-static/cover-hires/journal/12967",
+    "page": "https://link.springer.com/journal/12967",
+    "note": "Publisher-hosted journal cover artwork (Springer Nature)"
   },
   {
     "number": 3,
@@ -29,11 +29,11 @@
     "title": "EGR1 lactylation induces tumor cell senescence and immunosuppressive microenvironment in intrahepatic cholangiocarcinoma",
     "journal": "Translational Oncology",
     "year": "2026",
-    "kind": "pending",
+    "kind": "unverified",
     "issue": "",
     "url": "",
     "page": "",
-    "note": "未找到可靠的对应封面"
+    "note": "同卷期官方封面尚未可靠获取"
   },
   {
     "number": 4,
@@ -65,11 +65,11 @@
     "title": "Macrophage Nogo-B Drives Liver Fibrosis",
     "journal": "Cellular and Molecular Gastroenterology and Hepatology",
     "year": "2026",
-    "kind": "pending",
+    "kind": "unverified",
     "issue": "",
     "url": "",
     "page": "",
-    "note": "未找到可靠的对应封面"
+    "note": "同卷期官方封面尚未可靠获取"
   },
   {
     "number": 7,
@@ -113,11 +113,11 @@
     "title": "ATG16L1 Depletion-Mediated Activation of the TRAF1 Signaling in Macrophages Aggravates Liver Fibrosis",
     "journal": "Mediators of Inflammation",
     "year": "2024",
-    "kind": "pending",
+    "kind": "unverified",
     "issue": "",
     "url": "",
     "page": "",
-    "note": "未找到可靠的对应封面"
+    "note": "同卷期官方封面尚未可靠获取"
   },
   {
     "number": 11,
@@ -125,11 +125,11 @@
     "title": "Single-cell analysis reveals hypoxia-induced immunosuppressive microenvironment in intrahepatic cholangiocarcinoma",
     "journal": "Biochimica et Biophysica Acta - Molecular Basis of Disease",
     "year": "2024",
-    "kind": "pending",
+    "kind": "journal",
     "issue": "",
-    "url": "",
+    "url": "https://piperlab.org/wp-content/uploads/2018/03/BBA-Molecular-Basis-of-Disease-Cover-2.jpg",
     "page": "",
-    "note": "未找到可靠的对应封面"
+    "note": "BBA Molecular Basis of Disease 2018年正式期刊封面图；非该论文的具体卷期封面"
   },
   {
     "number": 12,
@@ -137,7 +137,7 @@
     "title": "Lactate supports Treg function and immune balance via MGAT1 effects on N-glycosylation in the mitochondria",
     "journal": "Journal of Clinical Investigation",
     "year": "2024",
-    "kind": "issue",
+    "kind": "unverified",
     "issue": "JCI 134(20), 15 Oct 2024",
     "url": "",
     "page": "https://www.jci.org/134/20",
@@ -149,11 +149,11 @@
     "title": "POSTN+ cancer-associated fibroblasts determine the efficacy of immunotherapy in hepatocellular carcinoma",
     "journal": "Journal for ImmunoTherapy of Cancer",
     "year": "2024",
-    "kind": "pending",
+    "kind": "journal",
     "issue": "",
-    "url": "",
+    "url": "https://www.bmjchina.com.cn/uploads/allimg/240416/9_240416100213_1.jpg",
     "page": "",
-    "note": "未找到可靠的对应封面"
+    "note": "BMJ期刊官方展示图片；非该论文的具体卷期封面"
   },
   {
     "number": 14,
@@ -161,11 +161,11 @@
     "title": "Macrophage ATG16L1 expression suppresses metabolic dysfunction-associated steatohepatitis progression by promoting lipophagy",
     "journal": "Clinical and Molecular Hepatology",
     "year": "2024",
-    "kind": "issue",
+    "kind": "journal",
     "issue": "Clinical and Molecular Hepatology 30(3), Jul 2024",
-    "url": "",
+    "url": "https://www.e-cmh.org/upload/thumbnails/M_CMH-32-1_Cover.jpg",
     "page": "https://www.e-cmh.org/current/?vol=30&no=3",
-    "note": "当期卷期已核实；图片待获取"
+    "note": "官方杂志代表性封面，非2024论文对应期次"
   },
   {
     "number": 15,
@@ -185,11 +185,11 @@
     "title": "Integrated analysis of single-cell and bulk RNA sequencing data reveals a cellular senescence-related signature in hepatocellular carcinoma",
     "journal": "Frontiers in Cell and Developmental Biology",
     "year": "2024",
-    "kind": "pending",
+    "kind": "unverified",
     "issue": "",
     "url": "",
     "page": "",
-    "note": "未找到可靠的对应封面"
+    "note": "同卷期官方封面尚未可靠获取"
   },
   {
     "number": 17,
@@ -197,11 +197,11 @@
     "title": "Integrated single-cell transcriptomics reveals the hypoxia-induced inflammation-cancer transformation in NASH-derived hepatocellular carcinoma",
     "journal": "Cell Proliferation",
     "year": "2024",
-    "kind": "issue",
+    "kind": "journal",
     "issue": "Cell Proliferation 57(4), Apr 2024",
-    "url": "",
+    "url": "https://authorservices.wiley.com/asset/Cell-Proliferation-Cover-455x600.png",
     "page": "https://onlinelibrary.wiley.com/toc/13652184/2024/57/4",
-    "note": "当期卷期已核实；可在封面相关资料中核对图片"
+    "note": "Wiley官方封面图片，非2024论文对应期次"
   },
   {
     "number": 18,
@@ -209,11 +209,11 @@
     "title": "Spatial multimodal analysis revealed tertiary lymphoid structures as a risk stratification indicator in combined hepatocellular-cholangiocarcinoma",
     "journal": "Cancer Letters",
     "year": "2024",
-    "kind": "pending",
+    "kind": "journal",
     "issue": "",
-    "url": "",
+    "url": "https://www.booksci.cn/Content/Literature/img/bc29d71d-8ccf-40c1-b62f-11c473b85111.jpg",
     "page": "",
-    "note": "未找到可靠的对应封面"
+    "note": "Elsevier期刊已发表封面（Vol 582）；非该论文的具体卷期封面"
   },
   {
     "number": 19,
@@ -233,7 +233,7 @@
     "title": "Phagocytosis of Glioma Cells Enhances the Immunosuppressive Phenotype of Bone Marrow-Derived Macrophages",
     "journal": "Cancer Research",
     "year": "2023",
-    "kind": "issue",
+    "kind": "unverified",
     "issue": "Cancer Research 83(5), Mar 2023",
     "url": "",
     "page": "https://aacrjournals.org/cancerres/issue/83/5",
@@ -245,7 +245,7 @@
     "title": "Natural Coevolution of Tumor and Immunoenvironment in Glioblastoma",
     "journal": "Cancer Discovery",
     "year": "2022",
-    "kind": "issue",
+    "kind": "unverified",
     "issue": "Cancer Discovery 12(12), Dec 2022",
     "url": "",
     "page": "https://aacrjournals.org/cancerdiscovery/issue/12/12",
@@ -257,11 +257,11 @@
     "title": "XBP1-mediated activation of the STING signalling pathway in macrophages contributes to liver fibrosis progression",
     "journal": "JHEP Reports",
     "year": "2022",
-    "kind": "pending",
+    "kind": "journal",
     "issue": "",
-    "url": "",
+    "url": "https://kl-seo.klxksci.com/b1/5b81931f5caf7a55435c1e311716f7.jpg",
     "page": "",
-    "note": "未找到可靠的对应封面"
+    "note": "JHEP Reports 2025年6月正式封面代表图；非该论文的具体卷期封面"
   },
   {
     "number": 23,
@@ -269,11 +269,11 @@
     "title": "Tumor metabolite lactate promotes tumorigenesis by modulating MOESIN lactylation and enhancing TGF-β signaling in regulatory T cells",
     "journal": "Cell Reports",
     "year": "2022",
-    "kind": "pending",
+    "kind": "journal",
     "issue": "",
-    "url": "",
+    "url": "https://bme.gatech.edu/sites/default/files/2021-04/Cell-Reports-Cover-April-20-2021-o.jpg",
     "page": "",
-    "note": "未找到可靠的对应封面"
+    "note": "Cell Reports 2021年4月正式封面图；非该论文的具体卷期封面"
   },
   {
     "number": 24,
@@ -281,11 +281,11 @@
     "title": "Detection and Localization of Solid Tumors Utilizing the Cancer-Type-Specific Mutational Signatures",
     "journal": "Frontiers in Bioengineering and Biotechnology",
     "year": "2022",
-    "kind": "pending",
+    "kind": "unverified",
     "issue": "",
     "url": "",
     "page": "",
-    "note": "未找到可靠的对应封面"
+    "note": "同卷期官方封面尚未可靠获取"
   },
   {
     "number": 25,
@@ -317,11 +317,11 @@
     "title": "Single-cell RNA-seq reveals transcriptional landscape and intratumor heterogenicity in gallbladder cancer liver metastasis microenvironment",
     "journal": "Annals of Translational Medicine",
     "year": "2021",
-    "kind": "pending",
+    "kind": "unverified",
     "issue": "",
     "url": "",
     "page": "",
-    "note": "未找到可靠的对应封面"
+    "note": "同卷期官方封面尚未可靠获取"
   },
   {
     "number": 28,
@@ -341,10 +341,10 @@
     "title": "Implications of liver injury in risk-stratification and management of patients with COVID-19",
     "journal": "Hepatology International",
     "year": "2021",
-    "kind": "pending",
+    "kind": "journal",
     "issue": "",
-    "url": "",
+    "url": "https://media.springernature.com/full/springer-static/cover-hires/journal/12072",
     "page": "",
-    "note": "未找到可靠的对应封面"
+    "note": "官方期刊封面图像/期刊代表性封面；未确认独立期次封面"
   }
 ]

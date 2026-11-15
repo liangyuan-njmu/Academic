@@ -1,0 +1,232 @@
+{
+  "as_of": "2026-11-15",
+  "official_year": "2025 JIF (2026 JCR)",
+  "prediction_method": "2026E=2025JIF+0.5*(2025JIF-2024JIF), capped at ±10% of 2025JIF; for display only, NOT official JCR",
+  "journals": {
+    "Molecular Biomedicine": {
+      "jif2025": 13.0,
+      "jif2024": 10.1,
+      "jcrQuartile": "Q1",
+      "cas2025": "2区",
+      "estimatedJif2026": 14.3,
+      "source": "https://www.iikx.com/sci/medcine/72175.html",
+      "note": ""
+    },
+    "Journal of Translational Medicine": {
+      "jif2025": 9.7,
+      "jif2024": 7.5,
+      "jcrQuartile": "Q1",
+      "cas2025": "",
+      "estimatedJif2026": 10.7,
+      "source": "https://www.ablesci.com/journal/detail?id=52kNYD",
+      "note": ""
+    },
+    "Translational Oncology": {
+      "jif2025": 4.9,
+      "jif2024": 4.1,
+      "jcrQuartile": "Q2",
+      "cas2025": "3区",
+      "estimatedJif2026": 5.3,
+      "source": "https://referencecitationanalysis.com/InCiteJournalInfo?id=22920",
+      "note": ""
+    },
+    "Frontiers in Pharmacology": {
+      "jif2025": 5.4,
+      "jif2024": null,
+      "jcrQuartile": "Q1",
+      "cas2025": "",
+      "estimatedJif2026": null,
+      "source": "https://www.frontiersin.org/about/impact",
+      "note": ""
+    },
+    "Cell": {
+      "jif2025": 45.1,
+      "jif2024": 42.5,
+      "jcrQuartile": "Q1",
+      "cas2025": "1区",
+      "estimatedJif2026": 46.4,
+      "source": "https://www.bioxbio.com/journal/CELL",
+      "note": ""
+    },
+    "Cellular and Molecular Gastroenterology and Hepatology": {
+      "jif2025": 8.2,
+      "jif2024": 7.4,
+      "jcrQuartile": "Q1",
+      "cas2025": "",
+      "estimatedJif2026": 8.6,
+      "source": "https://gastro.org/news/just-released-five-aga-journals-receive-new-impact-factor-scores/",
+      "note": ""
+    },
+    "Nature Communications": {
+      "jif2025": 18.1,
+      "jif2024": 15.7,
+      "jcrQuartile": "Q1",
+      "cas2025": "",
+      "estimatedJif2026": 19.3,
+      "source": "https://www.nature.com/ncomms/journal-impact",
+      "note": ""
+    },
+    "Oncogene": {
+      "jif2025": 9.1,
+      "jif2024": null,
+      "jcrQuartile": "Q1",
+      "cas2025": "",
+      "estimatedJif2026": null,
+      "source": "https://www.nature.com/onc/journal-information",
+      "note": ""
+    },
+    "Mediators of Inflammation": {
+      "jif2025": 4.9,
+      "jif2024": 4.2,
+      "jcrQuartile": "Q2",
+      "cas2025": "3区",
+      "estimatedJif2026": 5.2,
+      "source": "https://www.sci365.cn/journals/mediators-of-inflammation-09629351/",
+      "note": ""
+    },
+    "Biochimica et Biophysica Acta - Molecular Basis of Disease": {
+      "jif2025": 5.0,
+      "jif2024": 4.2,
+      "jcrQuartile": "Q2",
+      "cas2025": "",
+      "estimatedJif2026": 5.4,
+      "source": "https://www.ablesci.com/journal/detail?id=GDGmwp",
+      "note": ""
+    },
+    "Journal of Clinical Investigation": {
+      "jif2025": 14.3,
+      "jif2024": 13.6,
+      "jcrQuartile": "Q1",
+      "cas2025": "",
+      "estimatedJif2026": 14.7,
+      "source": "https://www.jci.org/kiosks/journal-stats",
+      "note": ""
+    },
+    "Journal for ImmunoTherapy of Cancer": {
+      "jif2025": 11.7,
+      "jif2024": 10.6,
+      "jcrQuartile": "Q1",
+      "cas2025": "",
+      "estimatedJif2026": 12.2,
+      "source": "https://jitc.bmj.com/pages/about",
+      "note": ""
+    },
+    "Clinical and Molecular Hepatology": {
+      "jif2025": 21.7,
+      "jif2024": 16.9,
+      "jcrQuartile": "Q1",
+      "cas2025": "1区",
+      "estimatedJif2026": 23.9,
+      "source": "https://www.ablesci.com/journal/detail?id=pnKex5",
+      "note": ""
+    },
+    "Frontiers in Cell and Developmental Biology": {
+      "jif2025": 5.3,
+      "jif2024": 4.3,
+      "jcrQuartile": "Q1",
+      "cas2025": "",
+      "estimatedJif2026": 5.8,
+      "source": "https://www.frontiersin.org/about/impact",
+      "note": ""
+    },
+    "Cell Proliferation": {
+      "jif2025": 7.6,
+      "jif2024": 5.6,
+      "jcrQuartile": "Q1",
+      "cas2025": "",
+      "estimatedJif2026": 8.4,
+      "source": "https://www.wolterskluwer.com/en/solutions/ovid/cell-proliferation-2623",
+      "note": ""
+    },
+    "Cancer Letters": {
+      "jif2025": 11.8,
+      "jif2024": 10.1,
+      "jcrQuartile": "Q1",
+      "cas2025": "1区",
+      "estimatedJif2026": 12.7,
+      "source": "https://www.ablesci.com/journal/detail?id=op6NJp",
+      "note": ""
+    },
+    "Cancer Research": {
+      "jif2025": 22.6,
+      "jif2024": 16.6,
+      "jcrQuartile": "Q1",
+      "cas2025": "1区",
+      "estimatedJif2026": 24.9,
+      "source": "https://aacrjournals.org/pages/pages/impact-factor",
+      "note": ""
+    },
+    "Cancer Discovery": {
+      "jif2025": 29.2,
+      "jif2024": null,
+      "jcrQuartile": "Q1",
+      "cas2025": "1区",
+      "estimatedJif2026": null,
+      "source": "https://aacrjournals.org/cancerdiscovery",
+      "note": ""
+    },
+    "JHEP Reports": {
+      "jif2025": 8.7,
+      "jif2024": 7.5,
+      "jcrQuartile": "Q1",
+      "cas2025": "",
+      "estimatedJif2026": 9.3,
+      "source": "https://www.ablesci.com/journal/detail?id=pLgYar",
+      "note": ""
+    },
+    "Cell Reports": {
+      "jif2025": 7.7,
+      "jif2024": 6.9,
+      "jcrQuartile": "Q1",
+      "cas2025": "",
+      "estimatedJif2026": 8.1,
+      "source": "https://www.ablesci.com/journal/detail?id=5jVxG5",
+      "note": ""
+    },
+    "Frontiers in Bioengineering and Biotechnology": {
+      "jif2025": 5.8,
+      "jif2024": null,
+      "jcrQuartile": "Q1",
+      "cas2025": "",
+      "estimatedJif2026": null,
+      "source": "https://www.frontiersin.org/about/impact",
+      "note": ""
+    },
+    "Frontiers in Immunology": {
+      "jif2025": 7.0,
+      "jif2024": null,
+      "jcrQuartile": "Q1",
+      "cas2025": "",
+      "estimatedJif2026": null,
+      "source": "https://www.frontiersin.org/about/impact",
+      "note": ""
+    },
+    "Annals of Translational Medicine": {
+      "jif2025": null,
+      "jif2024": null,
+      "jcrQuartile": "",
+      "cas2025": "",
+      "estimatedJif2026": null,
+      "source": "https://atm.amegroups.org/pages/view/indexing",
+      "note": "2023年Web of Science终止收录，无当前JIF"
+    },
+    "Critical Care": {
+      "jif2025": 11.4,
+      "jif2024": null,
+      "jcrQuartile": "Q1",
+      "cas2025": "",
+      "estimatedJif2026": null,
+      "source": "https://www.criticalcarereviews.com/evidence-library/journals",
+      "note": ""
+    },
+    "Hepatology International": {
+      "jif2025": 7.8,
+      "jif2024": 6.1,
+      "jcrQuartile": "Q1",
+      "cas2025": "1区",
+      "estimatedJif2026": 8.6,
+      "source": "https://referencecitationanalysis.com/InCiteJournalInfo?id=10339",
+      "note": ""
+    }
+  }
+}
